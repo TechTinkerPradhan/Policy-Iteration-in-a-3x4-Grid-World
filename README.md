@@ -25,7 +25,9 @@ This project implements **Policy Iteration** in a 3x4 grid world using **Markov 
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/policy-iteration-gridworld.git
+
 Results
+
 The policy iteration process alternates between evaluating a given policy and improving it. It converges when the policy no longer changes.
 The output includes:
 The optimal policy.
